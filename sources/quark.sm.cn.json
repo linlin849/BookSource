@@ -1,7 +1,7 @@
 {
 	    "name": "夸克搜索",
 	    "url": "quark.sm.cn",
-	    "version": 100,
+	    "version": 101,
 	    "search": {
 	        "url": "https://quark.sm.cn/s?q=${key}",
 	        "list": "div#results>div:not(:matches(新版小说|书圈|其他人|智能推荐|词典|腾讯|相关|微博|豆瓣|知乎|哔哩哔哩))",
